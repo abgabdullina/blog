@@ -9,13 +9,13 @@ caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 authors:
 
-* admin
+- admin
 
 tags:
 
-* Markdown
-* Documentation
-* Programming
+- Markdown
+- Documentation
+- Programming
 
 ---
 
